@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@storybook/addon-info": "4.0.0-alpha.11",
-    "@storybook/react": "4.0.0-alpha.11",
+    "@storybook/react": "^4.0.0-alpha.11",
     "jest": "23.1.0",
     "lodash.throttle": "4.1.1",
     "react-hot-loader": "4.0.0",
